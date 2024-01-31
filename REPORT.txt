@@ -1,0 +1,4 @@
+I added a platformer feature of coyote time.
+Coyote time is a mechanic that allows the player to jump for a certain amount of time after they
+have already lost contact with the ground (by walking off). 
+As a consequence of my approach, there is also a setting that allows for double-triple-etc jumps. 
